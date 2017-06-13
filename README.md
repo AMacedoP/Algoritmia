@@ -1,2 +1,2 @@
 Algoritmia
-Ingenieria Informatica
+Ingenieria Informatica PUCP
