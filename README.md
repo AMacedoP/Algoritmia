@@ -1,1 +1,2 @@
-#Algoritmia
+Algoritmia
+Ingenieria Informatica
